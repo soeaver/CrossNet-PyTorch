@@ -4,7 +4,7 @@
 
 **1. Our CrossNet**
 
-|  Network     |       FLops</br>(M)       |  Params</br>(M) | 224x224</br>top1-acc   |   Server  |
+|  Network|       FLops</br>(M)       |  Params</br>(M) | 224x224</br>top1-acc   |   Server  |
 | :--------------------------------------: | :----: | :----: | :--------------------: | :-------: |
 | crossnet56k5_b64e1g4                     | 472    | 4.06   | --/--                  | 20-former |
 | crossnet74k5_b48e075                     | 485    | 3.84   | --/--                  | 20-later  |  
