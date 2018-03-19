@@ -15,5 +15,13 @@
 | crossnet62k5_b64e1g8_bs1024              | 470    | 4.09   | 27.63/27.36            | 21-all    |
 | crossnet62k5_b64e1g8_pool                | 454    | 4.08   | 28.05/--               | 40-former |
 | crossnet62k5_b64e1g8_conv4               | 483    | 4.09   | 27.55/27.15            | 40-later  |
-|                                          |        |        |                        |
-| crossnet62-e64e05g8                      | 234    | 2.72   | --/--                  | 70-later  |
+|                                          |        |        |                        |           |
+| wd=3e-5                                  |        |        |                        |           |
+| crossnet56k5_b64e1g4_1920                | 489    | 5.03   | --/--                  | 20-former |
+| crossnet56k5_b96e05g8                    | 467    | 3.80   | --/--                  | 20-later  |
+| crossnet56k5_b64e05                      | 444    | 3.81   | --/--                  | 21-all    |
+| crossnet56k5_b100e05g10                  | 487    | 3.89   | --/--                  | 30-later  |
+| crossnet47k5_b72e05                      | 469    | 4.02   | --/--                  | 40-former |
+| crossnet47k5_b72e1g6                     | 463    | 4.02   | --/--                  | 40-later  |
+| crossnet56k5_b72e075g3                   | 490    | 4.10   | --/--                  | 70-former |
+| crossnet65k5_b72e05g2                    | 457    | 3.58   | --/--                  | 70-later  |
