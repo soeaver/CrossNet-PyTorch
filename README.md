@@ -37,3 +37,7 @@
 | crossnet57k5_b64e05                      | 431    | 3.81   | --/--                  | 40-later  |
 | crossnet56k5_b64e05_1600_64head          | 474    | 4.22   | 27.14/--               | 70-former |
 | crossnet65k5_b60e05_1600                 | 458    | 4.01   | --/--                  | 70-later  |
+|                                          |        |        |                        |           |
+| crossnet57k5_b64e05g2                    | 315    | 3.09   | --/--                  | 30-former |
+| crossnet57k5_b48e05                      | 259    | 2.79   | --/--                  | 30-later  |
+
