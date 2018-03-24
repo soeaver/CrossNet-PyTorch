@@ -31,8 +31,8 @@
 | crossnet56k5_b64e05_1600gpu2             | 448    | 4.21   | --/--                  | 20-later1 |
 | crossnet56k5_b64e05_1600gpu2_24conv1     | 442    | 4.21   | --/--                  | 20-later2 |
 | crossnet56k5_b64e05_1600                 | 448    | 4.21   | 27.41/27.03            | 21-all    |
-| crossnet65k5_b48e075_1600                | 438    | 3.98   | --/--                  | 30-former |
-| crossnet56k5_b48e075_1600                | 383    | 3.91   | --/--                  | 30-later  |
+| crossnet65k5_b48e075_1600                | 438    | 3.98   | 28.01/--               | 30-former |
+| crossnet56k5_b48e075_1600                | 383    | 3.91   | 28.48/28.05            | 30-later  |
 | crossnet56ins_b64e05_1600                | 493    | 4.21   | --/--                  | 40-former |
 | crossnet57k5_b64e05                      | 431    | 3.81   | --/--                  | 40-later  |
 | crossnet56k5_b64e05_1600_64head          | 474    | 4.22   | 27.14/--               | 70-former |
