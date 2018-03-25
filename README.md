@@ -27,9 +27,9 @@
 | crossnet56k5_b72e075g3                   | 490    | 4.10   | 27.11/--               | 70-former |
 | crossnet65k5_b72e05g2                    | 457    | 3.58   | 27.03/--               | 70-later  |
 |                                          |        |        |                        |           |
-| crossnet56k5_b64e05_1600_wd2e-5          | 448    | 4.21   | --/--                  | 20-former |
-| crossnet56k5_b64e05_1600gpu2             | 448    | 4.21   | --/--                  | 20-later1 |
-| crossnet56k5_b64e05_1600gpu2_24conv1     | 442    | 4.21   | --/--                  | 20-later2 |
+| crossnet56k5_b64e05_1600_wd2e-5          | 448    | 4.21   | 27.60/--               | 20-former |
+| crossnet56k5_b64e05_1600gpu2             | 448    | 4.21   | 27.66/--               | 20-later1 |
+| crossnet56k5_b64e05_1600gpu2_24conv1     | 442    | 4.21   | 27.58/--               | 20-later2 |
 | crossnet56k5_b64e05_1600                 | 448    | 4.21   | 27.41/27.03            | 21-all    |
 | crossnet65k5_b48e075_1600                | 438    | 3.98   | 28.01/--               | 30-former |
 | crossnet56k5_b48e075_1600                | 383    | 3.91   | 28.48/28.05            | 30-later  |
@@ -38,6 +38,8 @@
 | crossnet56k5_b64e05_1600_64head          | 474    | 4.22   | 27.14/--               | 70-former |
 | crossnet65k5_b60e05_1600                 | 458    | 4.01   | 27.51/--               | 70-later  |
 |                                          |        |        |                        |           |
+| crossnet57k5_b64e05_24head_type2         | 430    | 3.58   | --/--                  | 20-former |
+| crossnet57k5_b64e05_24head               | 426    | 3.81   | --/--                  | 20-later  |
 | crossnet57k5_b64e05g2                    | 315    | 3.09   | --/--                  | 30-former |
 | crossnet57k5_b48e05                      | 259    | 2.79   | --/--                  | 30-later  |
 | crossnet56k5_b70e04                      | 434    | 4.09   | --/--                  | 70-former |
