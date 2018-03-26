@@ -47,7 +47,7 @@
 | crossnet56k5_b70e04                      | 434    | 4.09   | --/--                  | 70-former |
 | crossnet56k5_b80e04                      | 548    | 4.76   | --/--                  | 70-later  |
 |                                          |        |        |                        |           |
-| crossnet65k5_b70e04g2                    | 348    | 3.81   | --/--                  | 21-all    |
+| crossnet65k5_b70e04g2_24head_type4       | 348    | 3.81   | --/--                  | 21-all    |
 | crossnet65k5_b70e04_24head_type3         | 479    | 4.00   | --/--                  | 30-former |
 | crossnet65k5_b70e04g2_24head_type3       | 350    | 3.22   | --/--                  | 30-later  |
 
