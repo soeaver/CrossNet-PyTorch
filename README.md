@@ -52,7 +52,7 @@
 | crossnet65k5_b70e04g2_24head_type4       | 348    | 3.81   | --/--                  | 21-all    |
 | crossnet65k5_b70e04_24head_type3         | 479    | 4.00   | --/--                  | 30-former |
 | crossnet65k5_b70e04g2_24head_type3       | 350    | 3.22   | --/--                  | 30-later  |
-| crossnet56k5_b70e04g2_24conv1_relu       | 314    | 3.01   | --/--                  | 20-former |
-| crossnet56k5_b70e04g2_24conv1_type3_relu | 311    | 3.60   | --/--                  | 20-later  |
+| crossnet56k5_b70e04g2_24conv1_relu       | 314    | 3.01   | --/--                  | 70-former |
+| crossnet56k5_b70e04g2_24conv1_type3_relu | 311    | 3.60   | --/--                  | 70-later  |
 
 
