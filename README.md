@@ -42,7 +42,7 @@
 | crossnet57k5_b64e05_24head               | 426    | 3.81   | 28.08/--               | 20-later  |
 | crossnet57k5_b64e05g2                    | 315    | 3.09   | 28.49/28.02            | 30-former |
 | crossnet57k5_b48e05                      | 259    | 2.79   | 30.13/--               | 30-later  |
-| crossnet56k5_b70e04g2_24head             | 309    | 3.00   | 28.39/--               | 40-former |
+| crossnet56k5_b70e04g2_24head             | 309    | 3.00   | 28.39/27.96            | 40-former |
 | crossnet56k5_b64e05g2_24head             | 317    | 3.09   | 28.61/--               | 40-later  |
 | crossnet56k5_b70e04                      | 434    | 4.09   | 27.43/27.28            | 70-former |
 | crossnet56k5_b80e04                      | 548    | 4.76   | 26.70/26.47            | 70-later  |
@@ -55,5 +55,12 @@
 | crossnet56k5_b70e04g2_24conv1_relu       | 314    | 3.01   | --/--                  | 70-former |
 | crossnet56k5_b70e04g2_24conv1_type3_relu | 311    | 3.60   | --/--                  | 70-later  |
 |                                          |        |        |                        |           |
+| relu, conv24, 1280tail, type3=1122       | wd3e-5 |        |                        |           |
+| crossnet58k5_b70e04g2-bs1024-lr0.4       | 311    | 3.60   | --/--                  | 21-all    |
+| crossnet58k3_b70e04g2 (k=3)              | 286    | 3.50   | --/--                  | 30-former |
+| crossnet58k5_b70e04g2-wd4e-5             | 311    | 3.60   | --/--                  | 30-later  |
+| crossnet58k5_b70e04                      | 422    | 4.57   | --/--                  | 40-former |
+| crossnet58k5_b70e04g2-1024tail           | 309    | 3.28   | --/--                  | 40-later  |
+
 
 
