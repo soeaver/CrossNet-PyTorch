@@ -3,6 +3,7 @@
 ### Total performance
 
 Samsung-S7e (SnapDragon820 on ncnn)
+
 |  Models |       FLops</br>(M)    |  Params</br>(M) | 224x224</br>top1-err   |   CPU Time</br>(Multi-Threads)  |
 | :------------------------------: | :----: | :----: | :--------------------: | :-------: |
 | MobileNet-v1                     | 569    | 4.24   | 70.9                   | 102ms |
