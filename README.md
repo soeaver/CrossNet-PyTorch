@@ -2,6 +2,10 @@
 
 ### Total performance
 
+|  Models |       FLops</br>(M)       |  Params</br>(M) | 224x224</br>top1-err   |   CPU Time</br>(Multi-Threads)  |
+| :--------------------------------------: | :----: | :----: | :--------------------: | :-------: |
+| crossnet56k5_b64e1g4                     | 472    | 4.06   | 27.51/27.19            | 20-former |
+
 **1. Our CrossNet**
 
 |  Network|       FLops</br>(M)       |  Params</br>(M) | 224x224</br>top1-err   |   Server  |
