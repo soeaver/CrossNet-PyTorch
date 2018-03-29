@@ -47,20 +47,21 @@
 | crossnet56k5_b70e04                      | 434    | 4.09   | 27.43/27.28            | 70-former |
 | crossnet56k5_b80e04                      | 548    | 4.76   | 26.70/26.47            | 70-later  |
 |                                          |        |        |                        |           |
-| crossnet56k5_b70e04g2_24head_relu        | 309    | 3.00   | --/--                  | 20-former |
-| crossnet56k5_b70e04g2_24head_type3_relu  | 307    | 3.59   | --/--                  | 20-later  |
+| crossnet56k5_b70e04g2_24head_relu        | 309    | 3.00   | 28.34/--               | 20-former |
+| crossnet56k5_b70e04g2_24head_type3_relu  | 307    | 3.59   | 28.17/27.84            | 20-later  |
 | crossnet65k5_b70e04g2_24head_type4       | 348    | 3.81   | 28.02/--               | 21-all    |
 | crossnet65k5_b70e04_24head_type3         | 479    | 4.00   | 27.13/--               | 30-former |
 | crossnet65k5_b70e04g2_24head_type3       | 350    | 3.22   | 28.20/--               | 30-later  |
-| crossnet56k5_b70e04g2_24conv1_relu       | 314    | 3.01   | --/--                  | 70-former |
-| crossnet56k5_b70e04g2_24conv1_type3_relu | 311    | 3.60   | --/--                  | 70-later  |
+| crossnet56k5_b70e04g2_24conv1_relu       | 314    | 3.01   | fail                   | 70-former |
+| crossnet56k5_b70e04g2_24conv1_type3_relu | 311    | 3.60   | 28.22/27.89            | 70-later  |
 |                                          |        |        |                        |           |
 | relu, conv24, 1280tail, type3=1122       | wd3e-5 |        |                        |           |
+| crossnet58k5_b70e04g2-1024tail           | 309    | 3.28   | --/--                  | 20-all    |
 | crossnet58k5_b70e04g2-bs1024-lr0.4       | 311    | 3.60   | --/--                  | 21-all    |
 | crossnet58k3_b70e04g2 (k=3)              | 286    | 3.50   | --/--                  | 30-former |
 | crossnet58k5_b70e04g2-wd4e-5             | 311    | 3.60   | --/--                  | 30-later  |
 | crossnet58k5_b70e04                      | 422    | 4.57   | --/--                  | 40-former |
 | crossnet58k5_b70e04g2-1024tail           | 309    | 3.28   | --/--                  | 40-later  |
-
+| crossnet49k5_b80e04g2-1024tail           | 335    | 3.63   | --/--                  | 70-all    |
 
 
