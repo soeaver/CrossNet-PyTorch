@@ -2,9 +2,11 @@
 
 ### Total performance
 
-|  Models |       FLops</br>(M)       |  Params</br>(M) | 224x224</br>top1-err   |   CPU Time</br>(Multi-Threads)  |
-| :--------------------------------------: | :----: | :----: | :--------------------: | :-------: |
-| crossnet56k5_b64e1g4                     | 472    | 4.06   | 27.51/27.19            | 20-former |
+|  Models |       FLops</br>(M)    |  Params</br>(M) | 224x224</br>top1-err   |   CPU Time</br>(Multi-Threads)  |
+| :------------------------------: | :----: | :----: | :--------------------: | :-------: |
+| MobileNet-v1                     | 569    | 4.24   | 70.9                   | 102ms |
+| MobileNet-v2                     | 300    | 3.47   | 71.7                   | **77ms**  |
+| CrossNet (ours)                  | 309    | 3.28   | **72.2**                   | 84ms  |
 
 **1. Our CrossNet**
 
