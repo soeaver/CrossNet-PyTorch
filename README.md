@@ -64,7 +64,7 @@ Samsung-S7e (SnapDragon820 on ncnn)
 | crossnet56k5_b70e04g2_24conv1_type3_relu | 311    | 3.60   | 28.22/27.89            | 70-later  |
 |                                          |        |        |                        |           |
 | relu, conv24, 1280tail, type3=1122       | wd3e-5 |        |                        |           |
-| crossnet58k5_b70e04g2-1024tail           | 309    | 3.28   | --/--                  | 20-all    |
+| crossnet58k5_b70e04g2-1024tail           | 309    | 3.28   | fail                   | 20-all    |
 | crossnet58k5_b70e04g2-bs1024-lr0.4       | 311    | 3.60   | fail                   | 21-all    |
 | crossnet58k3_b70e04g2 (k=3)              | 286    | 3.50   | 28.77/28.38            | 30-former |
 | crossnet58k5_b70e04g2-wd4e-5             | 311    | 3.60   | 28.78/--               | 30-later  |
@@ -74,7 +74,9 @@ Samsung-S7e (SnapDragon820 on ncnn)
 | crossnet49k5_b80e04g2-1024tail-wd4e-5    | 335    | 3.63   | --/--                  | 70-later  |
 |                                          |        |        |                        |           |
 | relu, head24, 1024tail, 49=1112, 58=1122 | wd3e-5 |        |                        |           |
-| crossnet49k3_b80e04g2-bs1024-lr0.4       | 305    | 3.54   | fail                   | 21-all    |
+| crossnet58k3_b80e04g2-res                | 305    | 3.54   | --/--                  | 20-former |
+| crossnet58k3_b80e04g2-xecep              | 305    | 3.54   | --/--                  | 20-later  |
+| crossnet49k3_b80e04g2-bs1024-lr0.4       | 305    | 3.54   | --/--                  | 21-all    |
 | crossnet58k3_b80e04g2                    | 305    | 3.54   | --/--                  | 30-former |
 | crossnet49k3_b80e04g2                    | 355    | 3.80   | --/--                  | 30-later  |
 
