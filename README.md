@@ -75,7 +75,7 @@ Samsung-S7e (SnapDragon820 on ncnn)
 |                                          |        |        |                        |           |
 | relu, head24, 1024tail, 49=1112, 58=1122 | wd3e-5 |        |                        |           |
 | crossnet58k3_b80e04g2-res                | 305    | 3.54   | --/--                  | 20-former |
-| crossnet58k3_b80e04g2-xecep              | 305    | 3.54   | --/--                  | 20-later  |
+| crossnet58k3_b80e04g2-xcep              | 305    | 3.54   | --/--                  | 20-later  |
 | crossnet49k3_b80e04g2-bs1024-lr0.4       | 305    | 3.54   | --/--                  | 21-all    |
 | crossnet58k3_b80e04g2                    | 305    | 3.54   | --/--                  | 30-former |
 | crossnet49k3_b80e04g2                    | 355    | 3.80   | --/--                  | 30-later  |
