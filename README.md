@@ -83,7 +83,7 @@ Samsung-S7e (SnapDragon820 on ncnn)
 |                                          |        |        |                        |           |
 | **!FINAL!** relu, head24, 1024tail, 58=1122 | wd3e-5 |     |                        |           |
 | crossnet58k5_b30e04g2                    | 83     | 1.54   | 36.68/35.87            | 21-all    |
-| crossnet58k5_b40e04g2                    | 124    | 1.86   | --/28.09               | 21-all    |
+| crossnet58k5_b40e04g2                    | 124    | 1.86   | 33.19/--               | 21-all    |
 | crossnet58k5_b50e04g2                    | 174    | 2.26   | 30.94/30.46            | 30-former |
 | crossnet58k5_b60e04g2                    | 234    | 2.73   | 29.74/29.26            | 30-later  |
 | crossnet58k5_b70e04g2                    | 304    | 3.28   | 28.51/--               | 40-former |
@@ -92,3 +92,9 @@ Samsung-S7e (SnapDragon820 on ncnn)
 |                                          |        |        |                        |           |
 |     res                                  |        |        |                        |           |
 | crossnet58k5_b70e04g2                    | 304    | 3.28   | --/--                  | 20-former |
+| crossnet58k5_b70e04g2-1113               | 302    | 3.87   | --/--                  | 20-later  |
+| crossnet58k5_b50e04g2                    | 174    | 2.26   | --/--                  | 30-former |
+| crossnet58k5_b60e04g2                    | 234    | 2.73   | --/--                  | 30-later  |
+| crossnet58k5_b80e04g2                    | 400    | 4.55   | --/--                  | 40-former |
+| crossnet58k5_b90e04g2                    | 517    | 5.27   | --/--                  | 40-later  |
+
