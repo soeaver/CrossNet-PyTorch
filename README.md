@@ -94,6 +94,7 @@ Samsung-S7e (SnapDragon820 on ncnn)
 | crossnet58k5_b70e04g2                    | 304    | 3.28   | --/--                  | 20-former |
 | crossnet58k5_b70e04g2-1113               | 302    | 3.87   | --/--                  | 20-later  |
 | crossnet58k5_b40e04g2                    | 124    | 1.86   | --/--                  | 21-all    |
+| crossnet58k5_b40e04g2-wd2e-5             | 124    | 1.86   | --/--                  | 21-all    |
 | crossnet58k5_b50e04g2                    | 174    | 2.26   | --/--                  | 30-former |
 | crossnet58k5_b60e04g2                    | 234    | 2.73   | --/--                  | 30-later  |
 | crossnet58k5_b80e04g2                    | 400    | 4.55   | --/--                  | 40-former |
