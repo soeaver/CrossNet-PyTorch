@@ -90,13 +90,14 @@ Samsung-S7e (SnapDragon820 on ncnn)
 | crossnet58k5_b80e04g2                    | 383    | 3.91   | 27.37/27.19            | 70-former |
 | crossnet58k5_b100e04g2                   | 570    | 5.38   | fail                   | 70-later  |
 |                                          |        |        |                        |           |
-|     res                                  |        |        |                        |           |
 | crossnet58k5_b70e04g2                    | 304    | 3.28   | --/--                  | 20-former |
-| crossnet58k5_b70e04g2-1113               | 302    | 3.87   | --/--                  | 20-later  |
-| crossnet58k5_b40e04g2                    | 124    | 1.86   | --/--                  | 21-all    |
-| crossnet58k5_b40e04g2-wd2e-5             | 124    | 1.86   | --/--                  | 21-all    |
-| crossnet58k5_b50e04g2                    | 174    | 2.26   | --/--                  | 30-former |
-| crossnet58k5_b60e04g2                    | 234    | 2.73   | --/--                  | 30-later  |
+| crossnet58k5_b70e04g2-1113               | 302    | 3.87   | 28.82/--               | 20-later  |
+| crossnet58k5_b40e04g2                    | 124    | 1.86   | 33.15/--               | 21-all    |
+| crossnet58k5_b40e04g2-wd2e-5             | 124    | 1.86   | 32.95/--               | 21-all    |
+| crossnet58k5_b50e04g2                    | 174    | 2.26   | --/30.74               | 30-former |
+| crossnet58k5_b60e04g2                    | 234    | 2.73   | 29.57/29.10            | 30-later  |
 | crossnet58k5_b80e04g2                    | 400    | 4.55   | --/--                  | 40-former |
 | crossnet58k5_b90e04g2                    | 517    | 5.27   | --/--                  | 40-later  |
-
+|                                          |        |        |                        |           |
+| crossnet58k5_b50e04g2                    | 174    | 2.26   | --/--                  | 30-former |
+| crossnet58k5_b50e04g2-wd2e-5             | 174    | 2.26   | --/--                  | 30-later |
